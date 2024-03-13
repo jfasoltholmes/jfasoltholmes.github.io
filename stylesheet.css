@@ -8,3 +8,8 @@
 .color{
     color: red;
 }
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
